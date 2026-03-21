@@ -1,0 +1,28 @@
+{
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports.ruff": "always",
+            "source.fixAll.ruff": "always"
+        },
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.formatOnType": true,
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.importFormat": "relative",
+    "python.analysis.packageIndexDepths": [
+        {
+            "name": "anthoropic",
+            "depth": 2
+        },
+        {
+            "name": "google",
+            "depth": 2
+        },
+        {
+            "name": "openai",
+            "depth": 2
+        }
+    ]
+}
