@@ -1,0 +1,5 @@
+{
+  "name": "Multimodal RAG Search",
+  "description": "A multimodal search application using Gemini Embedding 2 for images, videos, audio, and documents.",
+  "requestFramePermissions": []
+}
