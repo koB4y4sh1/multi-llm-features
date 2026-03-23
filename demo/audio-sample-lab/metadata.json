@@ -1,0 +1,5 @@
+{
+  "name": "Audio Sample Lab",
+  "description": "A professional tool to generate and download sample audio files for various scenarios and formats using Gemini TTS technology.",
+  "requestFramePermissions": []
+}
